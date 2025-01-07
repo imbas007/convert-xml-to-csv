@@ -19,4 +19,8 @@ python convert_xml_to_csv.py -d /path/to/xml_folder
 Output Folder: /path/to/xml_folder/csv (automatically created)
 
 
-https://api.star-history.com/svg?repos=)](https://star-history.com/
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=/imbas007/convert-xml-to-csv&type=Date)](https://star-history.com/#/imbas007/convert-xml-to-csv&Date)
+
+## Contributing
